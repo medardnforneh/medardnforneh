@@ -23,21 +23,21 @@
 </p>
 
 <p align="center">
-  I design, build, test, and support reliable digital solutions that solve real business problems.
+  I build reliable, scalable, and user-focused software solutions for real-world business needs.
 </p>
 
 ---
 
 ## About Me
 
-I am an IT Engineer and Solutions Architect with 7+ years of experience in software engineering, web/mobile development, system design, and quality assurance.
+I am an IT Engineer and Solutions Architect with 7+ years of experience in software engineering, web and mobile application development, database design, infrastructure support, and quality assurance.
 
-I currently work at Camtel, Cameroon’s national telecom operator, where I build and maintain business-critical web and mobile applications. I also work as a freelance full-stack developer, delivering practical software solutions from idea to deployment.
+I currently work at Camtel, Cameroon’s national telecom operator, where I design and develop business-critical platforms. I also work as a freelance full-stack developer, helping organizations turn ideas into secure, scalable, and user-friendly systems.
 
-My work spans:
+My work focuses on:
 - system architecture and technical design
 - full-stack web and mobile development
-- API and database design
+- API and database integration
 - deployment and infrastructure support
 - manual and automated testing
 - release readiness and product quality
@@ -82,12 +82,12 @@ My work spans:
 
 ### IT Engineer
 Camtel (Cameroon Telecommunications)
-- Designed and developed Camtel’s web and mobile applications
+- Designed and developed business-critical web and mobile applications
 - Built the recruitment platform handling approximately 6,000 applications
 - Developed KPI and project management tools used by around 800 staff
 - Built Laravel APIs and database-backed systems for production use
-- Managed Linux/Windows server environments
-- Performed manual and automated testing before each release
+- Managed Linux and Windows server environments
+- Performed manual and automated testing before every release
 
 ### Freelance Full-Stack Developer
 - Built web and mobile applications for private companies and organizations
@@ -99,7 +99,7 @@ Camtel (Cameroon Telecommunications)
 Ranites Sarl
 - Designed system architecture and selected technology stacks
 - Oversaw IT infrastructure and deployment workflows
-- Built full-stack applications using C#, PHP, JavaScript, Angular, and Ionic
+- Built full-stack applications using C#, PHP, JavaScript/TypeScript, Angular, and Ionic
 - Introduced Azure DevOps and Docker for build and deployment automation
 - Led QA reviews and release sign-off
 
@@ -112,17 +112,17 @@ A recruitment system built to streamline hiring and manage candidate application
 
 - Built with: Laravel, MySQL, APIs
 - Impact: ~6,000 applications processed
-- Focus: workflow automation, usability, reliability
+- Focus: recruitment workflow, usability, system reliability
 
 ### KPI Manager
-A business performance dashboard used by staff to monitor and track performance indicators.
+A business performance dashboard used by staff to monitor performance indicators and support operational visibility.
 
 - Built with: Laravel
 - Impact: used by ~800 staff
-- Focus: accountability, monitoring, visibility
+- Focus: accountability, reporting, performance tracking
 
 ### Project & Task Manager
-A work planning and team follow-up platform for tracking tasks and project progress.
+A work planning and team follow-up platform for tracking tasks and ongoing project progress.
 
 - Built with: Laravel
 - Focus: coordination, productivity, reporting
@@ -149,11 +149,17 @@ A work planning and team follow-up platform for tracking tasks and project progr
 - Higher National Diploma (HND), Computer Software Engineering & Computing  
   National Polytechnic Bamenda — 2013–2015
 
+- GCE Advanced Level, Sciences  
+  Government High School Bafut — 2010–2012
+
+- GCE Ordinary Level, Sciences  
+  Government High School Bafut — 2005–2010
+
 ---
 
-## Certifications
+## Certifications & Honours
 - PostgreSQL Database Administration Certificate — Udemy
-- Documentation Services — Prunat Computer Inc (PCI)
+- Documentation Services — Prunat Computer Inc (PCI), Bafut
 - Excellence Award — Most Humble Youth in the Community
 
 ---
