@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Nebafanwi Medard Nforneh 👋</h1>
+<h1 align="center">Nebafanwi Medard Nforneh</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Engineer-Systems%20%26%20Solutions-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT%20Engineer-Solutions%20Architect-blue?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-Web%20%26%20Mobile-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QA%20Specialist-Manual%20%26%20Automation-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA%20%2F%20Tester-Manual%20%26%20Automation-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nebafanwi-medard-nforneh-0b4570153">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nebafanwi-medard-nforneh-0b4570153" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:medardnforneh@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-medardnforneh@gmail.com-red.svg?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-medardnforneh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/medardnforneh">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-medardnforneh-181717?logo=github" />
+  <a href="https://github.com/medardnforneh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-medardnforneh-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -23,127 +23,109 @@
 </p>
 
 <p align="center">
-  I design, build, test, and support reliable digital solutions for businesses and users.
+  I design, build, test, and support reliable digital solutions that solve real business problems.
 </p>
 
 ---
 
 ## About Me
 
-I am an IT Engineer and Solutions Architect with 7+ years of experience building web and mobile applications, designing system architecture, and delivering production-ready software.
+I am an IT Engineer and Solutions Architect with 7+ years of experience in software engineering, web/mobile development, system design, and quality assurance.
 
-Currently, I work at Camtel, Cameroon’s national telecom operator, where I develop and maintain business-critical web and mobile platforms. I also freelance as a full-stack developer, helping organizations turn ideas into secure, scalable, and user-friendly applications.
+I currently work at Camtel, Cameroon’s national telecom operator, where I build and maintain business-critical web and mobile applications. I also work as a freelance full-stack developer, delivering practical software solutions from idea to deployment.
 
 My work spans:
-- architecture and system design
-- backend and frontend development
-- database management and integrations
+- system architecture and technical design
+- full-stack web and mobile development
+- API and database design
 - deployment and infrastructure support
-- manual and automated software testing
-- QA review and release confidence
+- manual and automated testing
+- release readiness and product quality
 
 ---
 
-## Core Technical Skills
+## Tech Stack
 
 ### Languages
-- C#
-- TypeScript / JavaScript
-- PHP
-- Java
-- C / C++
-- HTML / CSS
-- SQL
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frameworks & Platforms
-- Laravel
-- Angular
-- Ionic
-- Node.js / Express
-- .NET
-- Xamarin.Forms
+### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Databases
-- PostgreSQL
-- Microsoft SQL Server
-- MySQL
-- MS Access
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### QA & Testing
-- Manual Testing
-- Automated Testing
-- Unit Testing
-- Integration Testing
-- API Testing
-- UI / End-to-End Testing
-- Regression Testing
-- User Acceptance Testing
-- MSTest
-- PHPUnit
-- Jasmine / Karma
-- Selenium
-- Cypress
-- Appium
-- Postman
-
-### DevOps & Infrastructure
-- Docker
-- Azure DevOps
-- Git / GitHub
-- Linux (Ubuntu)
-- Windows Server
-- OpenStack
+![MSTest](https://img.shields.io/badge/MSTest-5C2D91?style=flat-square)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-8892BF?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## Professional Experience
+## Experience
 
 ### IT Engineer
 Camtel (Cameroon Telecommunications)
-- Designed and developed business-critical web and mobile applications
-- Built Camtel’s recruitment platform handling approximately 6,000 applications
-- Developed KPI monitoring and project/task management systems used by staff
-- Built Laravel APIs and database-driven systems
-- Managed Linux/Windows server deployment and support
-- Performed manual and automated testing across all applications before release
+- Designed and developed Camtel’s web and mobile applications
+- Built the recruitment platform handling approximately 6,000 applications
+- Developed KPI and project management tools used by around 800 staff
+- Built Laravel APIs and database-backed systems for production use
+- Managed Linux/Windows server environments
+- Performed manual and automated testing before each release
 
 ### Freelance Full-Stack Developer
-- Built custom web and mobile apps for private companies and organizations
-- Managed projects end-to-end: requirements, architecture, development, deployment, support
+- Built web and mobile applications for private companies and organizations
+- Managed projects end-to-end from requirement gathering to deployment and support
 - Worked with Laravel, Angular, and Ionic
-- Conducted testing for functionality, stability, mobile compatibility, and client UAT
+- Conducted UI, API, regression, and UAT testing
 
 ### Solutions Architect / Lead IT Engineer / Lead Software Developer
 Ranites Sarl
-- Designed system architectures and selected technology stacks
-- Oversaw company IT infrastructure and deployment workflows
-- Built full-stack applications using C#, PHP, JavaScript/TypeScript, Angular, and Ionic
-- Introduced Azure DevOps and Docker for better delivery and automation
-- Led code review, QA validation, and release sign-off
+- Designed system architecture and selected technology stacks
+- Oversaw IT infrastructure and deployment workflows
+- Built full-stack applications using C#, PHP, JavaScript, Angular, and Ionic
+- Introduced Azure DevOps and Docker for build and deployment automation
+- Led QA reviews and release sign-off
 
 ---
 
 ## Featured Work
 
 ### Camtel Recruitment Platform
-A recruitment system built to manage candidate applications, streamline hiring processes, and improve visibility for HR teams.
+A recruitment system built to streamline hiring and manage candidate applications efficiently.
 
 - Built with: Laravel, MySQL, APIs
 - Impact: ~6,000 applications processed
-- Focus: recruitment workflow, reliability, ease of use
+- Focus: workflow automation, usability, reliability
 
 ### KPI Manager
-A performance management tool used by staff to track business performance and team objectives.
-
-- Built with: Laravel, database-driven dashboards
-- Impact: used by ~800 staff
-- Focus: reporting, accountability, operational visibility
-
-### Project & Task Manager
-A platform for planning work, assigning tasks, and tracking team progress.
+A business performance dashboard used by staff to monitor and track performance indicators.
 
 - Built with: Laravel
-- Focus: coordination, productivity, task monitoring
+- Impact: used by ~800 staff
+- Focus: accountability, monitoring, visibility
+
+### Project & Task Manager
+A work planning and team follow-up platform for tracking tasks and project progress.
+
+- Built with: Laravel
+- Focus: coordination, productivity, reporting
 
 ---
 
@@ -167,17 +149,11 @@ A platform for planning work, assigning tasks, and tracking team progress.
 - Higher National Diploma (HND), Computer Software Engineering & Computing  
   National Polytechnic Bamenda — 2013–2015
 
-- GCE Advanced Level, Sciences  
-  Government High School Bafut — 2010–2012
-
-- GCE Ordinary Level, Sciences  
-  Government High School Bafut — 2005–2010
-
 ---
 
-## Certifications & Honors
+## Certifications
 - PostgreSQL Database Administration Certificate — Udemy
-- Documentation Services — Prunat Computer Inc (PCI), Bafut
+- Documentation Services — Prunat Computer Inc (PCI)
 - Excellence Award — Most Humble Youth in the Community
 
 ---
@@ -188,22 +164,11 @@ A platform for planning work, assigning tasks, and tracking team progress.
 
 ---
 
-## Personal Profile
-- Confident
-- Hardworking
-- Dedicated
-- Organized
-- Goal-oriented
-- God-fearing
+## Contact
 
-### Interests
-- Football
-- Handball
-- Volleyball
-- Tennis
-- Reading
-- Technology and science-related films/news
-- Travel
+- Email: medardnforneh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nebafanwi-medard-nforneh-0b4570153
+- GitHub: https://github.com/medardnforneh
 
 ---
 
